@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="count_list">
+        <item>50</item>
+        <item>100</item>
+        <item>1000</item>
+        <item>10000</item>
+        <item>100000</item>
+    </integer-array>
+</resources>
